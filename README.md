@@ -1,2 +1,2 @@
 # CSS-Animations
-is something truly exiting to me
+is something truly exiting for me
